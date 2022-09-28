@@ -5,5 +5,5 @@ Hacktoberfest is DigitalOcean’s annual event that encourages people to contrib
 
 Hacktoberfest is all about giving back to those projects, sharpening skills, and celebrating all things open source, especially the people that make open source so special.
 
-
+![hacktoberfest-banner](https://user-images.githubusercontent.com/60167999/192787587-62a13aa7-1317-4bd5-a4b7-13f8bf336c6a.jpg)
 
